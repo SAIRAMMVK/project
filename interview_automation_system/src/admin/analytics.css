@@ -1,0 +1,24 @@
+.place{
+    color: darkgrey;
+}
+.months{
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+}
+.first-div{
+   height: 250px;
+}
+.chart{
+    margin: 30px;
+    width: 900px;
+    height: 250px;
+    float: left;
+}
+.second-div{
+    border: 2px solid green;
+    height: 300px;
+    margin-top:2px; 
+ }
+
